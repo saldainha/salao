@@ -1,1 +1,1 @@
-# salao
+# Aula de pensamento computacional
